@@ -2,3 +2,4 @@ This is the first feature of our application
 this is the bug fix in the development file
 This is wrong code
 This feature is wrong everything from now
+This is correct code
